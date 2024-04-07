@@ -1,6 +1,8 @@
 					CPU, Computer Architechture Project, Using C++
 
 
+					Cache and Memory Hierarchy Simulator with Stream Buffer
+
 1. Type "make" to build.  (Type "make clean" first if you already compiled and want to recompile from scratch.)
 
 2. Run trace reader:
